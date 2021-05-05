@@ -14,6 +14,10 @@ public class Teman {
         this.telpon = telpon;
     }
 
+    public Teman(String nama, String telpon) {
+
+    }
+
     public String getId() {
         return id;
     }

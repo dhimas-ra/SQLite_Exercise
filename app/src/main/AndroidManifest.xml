@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.SQLite">
-        <activity android:name=".EditData"></activity>
+        <activity android:name=".EditData" />
         <activity android:name=".database.TemanBaru" />
         <activity android:name=".MainActivity">
             <intent-filter>

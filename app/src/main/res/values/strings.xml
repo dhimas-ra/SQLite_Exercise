@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SQLite</string>
+    <string name="edit">Edit</string>
+    <string name="hapus">Hapus</string>
 </resources>
